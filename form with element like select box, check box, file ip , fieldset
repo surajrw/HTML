@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Enquiry</legend>
+            Country:
+            <select>
+                <option value="India">India</option>
+                <option value="USA">USA</option>
+                <option value="Brazil">Brazil</option>
+                <option value="Ireland">Ireland</option>
+            </select>
+            <br/>
+
+            Hobbies:
+            <input type="checkbox" name="Hobbies[]">Dancing
+            <input type="checkbox" name="Hobbies[]">Singing
+            <br/>
+            Image:
+            <input type="file" name="Image">
+        </fieldset>
+    </form>
+</body>
+</html>
