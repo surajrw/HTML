@@ -1,0 +1,30 @@
+><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>suraj rawat</p><hr/>
+    <br/>
+    <br/>
+    <p><b>suraj rawat</b></p>
+    <br/>
+    <br/>
+    <p><strong>suraj rawat</strong></p>
+    <br/>
+    <br/>
+    <p><i>suraj rawat</i></p>
+    <br/>
+    <br/>
+    <p><u>suraj rawat</u></p>
+    <br/>
+    <br/>
+    <p><mark>suraj rawat</mark></p>
+    <br/>
+    <br/>
+    <p><del>suraj rawat</del></p>
+
+</body>
+</html>
