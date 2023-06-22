@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        Name:<input type="text" value="" name="name" placeholder="enter your name"/>
+        <br/>
+        Address:<textarea name="address"></textarea>
+        <br/>
+        Gender:
+        <input type="radio" value="m" name="gender">Male
+        <input type="radio" value="f" name="gender">Female
+        <br/>
+        <input type="submit" value="send">
+        <input type="reset" value="reset">
+    </form>
+</body>
+</html>
