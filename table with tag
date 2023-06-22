@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2px" align="centre" bgcolor="brown" cellspacing="2px" cellpadding="2px" width="500px" height="500px">
+        <thead>
+            <tr bgcolor="red" align="left">
+                <th>Course</th>
+                <th>Fees</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td bgcolor="pink">web dev</td>
+                <td>10000</td>
+            </tr>
+        </tbody>
+
+    </table>
+</body>
+</html>
